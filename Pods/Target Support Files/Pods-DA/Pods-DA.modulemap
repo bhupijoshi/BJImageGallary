@@ -1,0 +1,6 @@
+framework module Pods_DA {
+  umbrella header "Pods-DA-umbrella.h"
+
+  export *
+  module * { export * }
+}
