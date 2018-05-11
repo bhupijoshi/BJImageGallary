@@ -23,6 +23,8 @@ class DAUserItem : Object {
     override static func primaryKey() -> String? {
         return "itemUrlString"
     }
+    
+    
 }
 
 
